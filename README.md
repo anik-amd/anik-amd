@@ -5,7 +5,6 @@
 I'm a fullstack web developer, with a keen interest in UI/UX. I like to explore new based technologies & find new solutions with them.
 
 - 🌍  I'm based in Dhaka, Bangladesh
-- ✉️  You can contact me at [anikahmed0091@gmail.com](mailto:anikahmed0091@gmail.com)
 
 ### Skills
 
