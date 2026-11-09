@@ -1,7 +1,7 @@
 # Anik Ahmed
 
-MSc Data Science student at [BUET](https://www.buet.ac.bd/) in Dhaka. I work on open-source
-software and decentralized systems.
+MSc Data Science student in 📍 Dhaka, Bangladesh. I work on open-source software and
+decentralized systems.
 
 My site lives at **[aniks.pages.dev](https://aniks.pages.dev)**.
 
@@ -9,7 +9,7 @@ My site lives at **[aniks.pages.dev](https://aniks.pages.dev)**.
 
 [Mastodon](https://mastodon.social/@aniks) · [LinkedIn](https://www.linkedin.com/in/mdanik9/) ·
 [GitHub](https://github.com/anik-amd) · [GitLab](https://gitlab.com/anik-amd) ·
-[ORCID](https://orcid.org/0009-0000-5792-8991) · [Email](mailto:anikahmed0091@gmail.com)
+[ORCID](https://orcid.org/0009-0000-5792-8991)
 
 ## GitHub
 
